@@ -1,0 +1,12 @@
+.bash_history
+startjupy.sh
+.cache/
+.config/
+gonzalo/
+.ipynb_checkpoints/
+.ipython/
+jovyan/
+.jupyter/
+.local/
+__pycache__/
+	
