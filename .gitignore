@@ -9,4 +9,6 @@ jovyan/
 .jupyter/
 .local/
 __pycache__/
-	
+.python_history
+Arrancar contenedor.txt
+
